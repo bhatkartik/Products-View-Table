@@ -28,7 +28,7 @@ UI interface to view and delete products via an API. The backend will feature a 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bhatkartik/Assignment.git
+   git clone https://github.com/bhatkartik/Trika-Assignment.git
 
 2. **cd back**
    
